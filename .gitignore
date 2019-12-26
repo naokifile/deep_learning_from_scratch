@@ -1,2 +1,4 @@
 common/
 dataset/
+*.pickle
+*.pkl
